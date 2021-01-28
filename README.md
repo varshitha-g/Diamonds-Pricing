@@ -1,10 +1,9 @@
-# diamonds-pricing
-Diamonds
+# Diamonds-Pricing
 
-Given dataset of Diamonds with features such as Cut, Carat, Clarity etc.
+##Predicting the price of diamonds.
 
-I have used Libraries such as Pandas, Numpy, Matplotlib, Seaborn to Analyse and Estimate the Price of Diamonds based on the features.
+##Libraries used: 
+Pandas, sklearn, Matplotlib, Seaborn.
 
-Used Scikit-Learn to implement Regression models to improve the R2 Score.
+####In this project I predicted the price of the diamonds based on features like cut,color, clarity, depth etc using the regreesion algorithms. For achieving this I analysed and visualised the relation between this features of diamonds and their price.
 
-Analyzed and Visualized both the distribution of Categorical and Numerical Features.
