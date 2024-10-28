@@ -69,18 +69,16 @@ Key Insights: Carat weight and clarity were the strongest predictors of price, w
 
 To run this project locally, follow these steps:
 
-Clone the repository:
+### 1.Clone the repository:
           git clone https://github.com/varshitha-g/Diamonds-Pricing.git
           cd Diamonds-Pricing
-Create a virtual environment:
+### 2.Create a virtual environment:
           python -m venv env
           source env/bin/activate  # On Windows, use `env\Scripts\activate`
-Install the dependencies:
+### 3.Install the dependencies:
           pip install -r requirements.txt
 ## Usage
 
-Run Data Analysis: Run eda.py to view exploratory data analysis and visualizations.
-          python eda.py
-Train the Model: To train and evaluate the model, run:
-          python train.py
-Make Predictions: Use the predict.py script to predict diamond prices based on input features.
+1. Run Data Analysis
+2. Train the Model
+3. Make Predictions
